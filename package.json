@@ -39,7 +39,7 @@
     "gulp-util": "3.0.6"
   },
   "dependencies": {
-    "bower": "1.5.2",
+    "bower": "1.8.8",
     "reveal-md": "0.0.20"
   }
 }
